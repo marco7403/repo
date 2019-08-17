@@ -1,14 +1,11 @@
 {
   "validateToken": [
     {
-      "id": 1,
-      "token": 123
+      "valid": true;
     }
   ],
   "login": {
-    "id": 1,
-    "name": "giorgio",
-    "email": "giorgio@test"
+    "token": 123
   },
   "tweets": [
     {
