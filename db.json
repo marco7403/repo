@@ -1,11 +1,30 @@
 {
-  "posts": [
+  "validateToken": [
     {
       "id": 1,
-      "title": "hello"
+      "token": 123
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "login": {
+    "id": 1,
+    "name": "giorgio",
+    "email": "giorgio@test"
+  },
+  "tweets": [
+    {
+      "id": 1,
+      "like": 20,
+      "title": "ABC"
+    },
+    {
+      "id": 2,
+      "like": 40,
+      "title": "XYZ"
+    },
+    {
+      "id": 3,
+      "like": 10,
+      "title": "TEST"
+    }    
+  ]
 }
